@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement>
+        <ui:Button text="Change Scene" display-tooltip-when-elided="true" style="background-color: rgba(190, 112, 13, 255);" />
+    </ui:VisualElement>
+</ui:UXML>
